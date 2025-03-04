@@ -1,7 +1,5 @@
 package chapter2.clazz;
 
-import com.sun.org.apache.xerces.internal.util.XMLInputSourceAdaptor;
-
 public class Car {
     String carName;
     int carNumber;
